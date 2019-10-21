@@ -28,6 +28,8 @@ dependencies:
   splashscreen: any
   flutter_parallax: any
   carousel_slider: any
+  flutter_datetime_picker: any
+  datetime_picker_formfield: ^0.4.3
 
 dev_dependencies:
   flutter_test:
